@@ -1,4 +1,4 @@
 int main()
 {
-  system("echo \"Hello, world!\"");
+  System.out.printf("echo \"Hello, world!\"");
 }
